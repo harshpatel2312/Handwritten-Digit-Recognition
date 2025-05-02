@@ -10,3 +10,5 @@
   year={2010}
 }
 ```
+## License
+MIT License © Harsh Patel
