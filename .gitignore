@@ -5,3 +5,7 @@
 */.ipynb_checkpoints
 
 venv/
+
+*.h5
+
+**/HDRM.ipynb
