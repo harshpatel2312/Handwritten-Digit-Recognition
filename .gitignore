@@ -8,4 +8,4 @@ venv/
 
 *.h5
 
-*HDRM.ipynb
+**/HDRM.ipynb
