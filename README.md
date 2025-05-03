@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition
 
-## Citation Information
+## Dataset Citation Information
 ```bash
 @article{lecun2010mnist,
   title={MNIST handwritten digit database},
