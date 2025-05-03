@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition
-> 📌 Note: If you need to use a `pretrained-model` then visit [pretrained_model](https://github.com/harshpatel2312/Handwritten-Digit-Recognition/tree/pretrained_model) for more information, otherwise stay tuned!!
+> 📌 Note: If you want to use a `pretrained-model` then visit [pretrained_model](https://github.com/harshpatel2312/Handwritten-Digit-Recognition/tree/pretrained_model) branch for more information, otherwise stay tuned!!
 
 This branch contains everything you need to train your own Convolutional Neural Network (CNN)-based handwritten digit recognition from scratch using [`mnist`](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist/load_data) dataset from `tensorfLow.keras.datasets.mnist`.
 
