@@ -1,1 +1,3 @@
 opencv-python
+screeninfo
+tensorflow == 2.19.0
