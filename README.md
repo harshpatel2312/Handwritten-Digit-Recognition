@@ -26,6 +26,10 @@ cd Handwritten-Digit-Recognition
 ---
 
 ## 🧰 Setting Up the Environment
+> 📌 Note: The model expects that you're using `Python 3.11.9`, as `TensorFlow` packages require `Python 3.11.9`.
+
+> Details on how to download `Python 3.11.9` can be found on [python.org](https://www.python.org/downloads/release/python-3119/).
+
 1. Create a virtual environment
 ```bash
 python -m venv venv
@@ -117,8 +121,8 @@ The evaluation metrics listed here (accuracy, precision, recall, etc.) were obta
 
 After training, the model is evaluated using:
 - Test Accuracy: 99.12%
-- ![Classification Report](model/classification_report.png)
-- ![Confusion Matrix](model/confusion_matrix.png)
+- ![Classification Report](model/Resources/classification_report.png)
+- ![Confusion Matrix](model/Resources/confusion_matrix.png)
 
 > 📌 These results may vary on your machine depending on training runs.
 
