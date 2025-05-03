@@ -119,10 +119,14 @@ python HDRM.py
 > 📌 Note:
 The evaluation metrics listed here (accuracy, precision, recall, etc.) were obtained during one specific training run and may vary slightly depending on your system, Python version, random seed, or hardware (CPU/GPU). Feel free to retrain the model and observe your own results.
 
-After training, the model is evaluated using:
-- Test Accuracy: 99.12%
-- ![Classification Report](model/Resources/classification_report.png)
-- ![Confusion Matrix](model/Resources/confusion_matrix.png)
+### After training, the model is evaluated using:
+#### Test Accuracy: 99.12%
+
+#### 🧾 Classification Report
+![Classification Report](model/Resources/classification_report.png)
+
+### 🧩 Confusion Matrix
+![Confusion Matrix](model/Resources/confusion_matrix.png)
 
 > 📌 These results may vary on your machine depending on training runs.
 
