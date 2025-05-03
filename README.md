@@ -115,8 +115,8 @@ The evaluation metrics listed here (accuracy, precision, recall, etc.) were obta
 
 After training, the model is evaluated using:
 - Test Accuracy: 99.12%
-- Classification Report (precision, recall, f1-score):
-- Confusion Matrix (per-class performance visualization):
+- ![Classification Report](model/classification_report.png)
+- ![Confusion Matrix](model/confusion_matrix.png)
 
 > 📌 These results may vary on your machine depending on training runs.
 
