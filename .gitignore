@@ -6,6 +6,6 @@
 
 venv/
 
-model/Resource/Images/
+model/Resources/Images/
 
 model/dtetect_digits.ipynb
