@@ -7,3 +7,5 @@
 venv/
 
 model/Resource/Images/
+
+model/detect_digits.ipynb
