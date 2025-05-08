@@ -8,4 +8,4 @@ venv/
 
 model/Resources/Images/
 
-model/dtetect_digits.ipynb
+model/detect_digits.ipynb
