@@ -1,5 +1,15 @@
-# Handwritten-Digit-Recognition
-This branch contains everything you need to train your own Convolutional Neural Network (CNN)-based handwritten digit recognition from scratch using [`mnist`](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist/load_data) dataset from `tensorfLow.keras.datasets.mnist`.
+# 🧠 Handwritten Digit Detection from Images using Pretrained CNN
+
+This repository provides a complete pipeline to detect and classify handwritten digits from image files using a pretrained Convolutional Neural Network (CNN) model. The model was trained on the [`mnist`](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist/load_data) dataset from `tensorfLow.keras.datasets.mnist` and saved as `HDRM.h5`. This script (`detect_digits.py`) loads the trained model, preprocesses input images, performs digit prediction, and optionally visualizes the results with OpenCV.
+
+> 📂 For training details, model architecture, and more, please refer to the [`train_model`](https://github.com/harshpatel2312/Handwritten-Digit-Recognition/tree/train_model) branch.
+
+Whether you're looking to test a batch of digit images or integrate this into a larger application, this script allows you to do so with minimal setup.
+
+> 📦 A ready-to-use pretrained model `HDRM.h5` is included, so you can start predicting digits without needing to retrain.
+
+
+
 
 ---
 
